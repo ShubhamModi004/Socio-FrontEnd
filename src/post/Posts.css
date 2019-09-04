@@ -1,0 +1,19 @@
+.post-image{
+    height: 18rem;
+    object-fit: cover;
+    width: 100%;
+}
+
+.card-body {
+    padding: 0rem !important;
+}
+.card-body-inner{
+    padding: 1.25rem;
+}
+
+.card-body .lazy-load-image-background{
+    height: 18rem;
+    object-fit: cover;
+    width: 100%;
+
+}
